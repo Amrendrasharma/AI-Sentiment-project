@@ -1,0 +1,56 @@
+{
+  "movie was good": {
+    "review": "movie was good",
+    "votes": {
+      "positive": 2
+    }
+  },
+  "nice": {
+    "review": "nice",
+    "votes": {
+      "p": 2
+    }
+  },
+  "nice movie": {
+    "review": "nice movie",
+    "votes": {
+      "p": 2
+    }
+  },
+  "bekar": {
+    "review": "bekar",
+    "votes": {
+      "negative": 1
+    }
+  },
+  "bekar movie": {
+    "review": "bekar movie",
+    "votes": {
+      "negative": 1
+    }
+  },
+  "acchi movie": {
+    "review": "acchi movie",
+    "votes": {
+      "p": 1
+    }
+  },
+  "good movie": {
+    "review": "good movie",
+    "votes": {
+      "p": 1
+    }
+  },
+  "khrab movie hai": {
+    "review": "khrab movie hai",
+    "votes": {
+      "n": 1
+    }
+  },
+  "khrab movie": {
+    "review": "khrab movie",
+    "votes": {
+      "n": 1
+    }
+  }
+}
