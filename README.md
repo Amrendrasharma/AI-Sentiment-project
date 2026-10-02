@@ -81,4 +81,4 @@ Type `quit` to exit.
 
 ## Author
 
-Your Name - [GitHub](https://github.com/your-username)
+Amrendra
